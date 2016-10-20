@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="selected_view" type="id"/>
+
+    <!-- global_head.xml by carl -->
+    <item name="titleBar" type="id"/>
+    <item name="leftText" type="id"/>
+    <item name="centerText" type="id"/>
+    <item name="rightText" type="id"/>
+    <item name="centerImage" type="id"/>
+    <item name="centerImageLeft" type="id"/>
+    <item name="centerImageRight" type="id"/>
+</resources>

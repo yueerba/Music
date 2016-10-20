@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/blue_2"
+    android:gravity="center_horizontal"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/txtFavorite"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="@string/menu_add_favorite"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <View style="@style/SlidingMenu.View.SplitLine" />
+
+    <TextView
+        android:id="@+id/txtDelete"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="@string/menu_delete_music"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+    <View style="@style/SlidingMenu.View.SplitLine" />
+
+    <TextView
+        android:id="@+id/txtRing"
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:gravity="center_vertical"
+        android:paddingLeft="10dp"
+        android:text="@string/menu_set_ringtone"
+        android:textColor="@color/white"
+        android:textSize="20sp" />
+
+</LinearLayout>

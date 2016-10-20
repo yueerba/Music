@@ -1,0 +1,21 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <!-- global titlebar -->
+    <dimen name="global_titlebar_height">45dp</dimen>
+    <dimen name="titlebar_leftside_width">60dp</dimen>
+    <dimen name="titlebar_rightside_width">60dp</dimen>
+
+    <!-- text size -->
+    <dimen name="little_text_size">10sp</dimen>
+    <dimen name="small_text_size">12sp</dimen>
+    <dimen name="mini_text_size">15sp</dimen>
+    <dimen name="normal_text_size">16sp</dimen>
+    <dimen name="big_text_size">16sp</dimen>
+    <dimen name="large_text_size">18sp</dimen>
+    <dimen name="super_big_text_size">20sp</dimen>
+    <dimen name="super_large_textsize">30sp</dimen>
+</resources>

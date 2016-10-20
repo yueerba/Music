@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="home_options">
+        <item>本地歌曲</item>
+        <item>我的收藏</item>
+        <item>文件夹</item>
+        <item>艺术家</item>
+        <item>专辑</item>
+    </string-array>
+
+    <string-array name="home_options_icon">
+        <item>ic_local_music</item>
+        <item>ic_favorites</item>
+        <item>ic_folder_plus</item>
+        <item>ic_artist_plus</item>
+        <item>ic_album_plus</item>
+    </string-array>
+
+    <string-array name="sleep_time">
+        <item>不开启</item>
+        <item>10分钟后</item>
+        <item>30分钟后</item>
+        <item>60分钟后</item>
+        <item>90分钟后</item>
+        <item>120分钟后</item>
+        <item>自定义</item>
+    </string-array>
+
+    <integer-array name="sleep_time_value">
+        <item>-1</item>
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>90</item>
+        <item>120</item>
+        <item>0</item>
+    </integer-array>
+
+</resources>
